@@ -1,4 +1,5 @@
 import React, {Proptype} from 'react';
+import {connect} from 'react-redux';
 
 class CoursePage extends  React.Component{
   constructor(props, context) {
